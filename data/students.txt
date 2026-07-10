@@ -1,3 +1,6 @@
 R01 Arjun BCA English:60 Maths:72 Python:85 DBMS:55 OS:78
 R02 Sneha BSc Biology:90 Chemistry:82 Physics:74 Maths:68 English:80
 R03 Rahul BCom Accounts:55 Economics:60 Business:70 English:65 Maths:58
+1 minna bca english :89 maths:90
+1 minna bca english:65 maths:77
+2 hanan bca maths:98 english:45
